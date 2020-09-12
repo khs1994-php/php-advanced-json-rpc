@@ -30,6 +30,6 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "replace": {
-      "felixfbecker/advanced-json-rpc": "self.version"
+      "felixfbecker/advanced-json-rpc": "3.1.1"
     }
 }
