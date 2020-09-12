@@ -28,5 +28,8 @@
         "phpunit/phpunit": "^6.0.0"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "replace": {
+      "felixfbecker/advanced-json-rpc": "self.version"
+    }
 }
